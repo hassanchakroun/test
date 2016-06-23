@@ -2,4 +2,8 @@
     "name": "hacha/project1",
     "description": "testing library",
     "homepage": "https://github.com/hassanchakroun/test"
+    "authors" : [{
+		"name" : "Hassan CHAKROUN",
+		}
+    ]
 }
